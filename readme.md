@@ -1,121 +1,86 @@
-## 🌟 WELCOME TO ( সহজ সরল সিম্পল ) ASSIGNMENT-002 😎
+# 🌸 Faugei Flower Shop
 
-### 📅 Deadline For 60 marks: 25th July, 2025 (11:59 pm ⏱️)
+A simple and responsive flower shop website built using **HTML and CSS**. Faugei Flower Shop features a beautiful floral design with an orange-themed color palette, showcasing flower products, special deals, and a newsletter section.
 
-### 📅 Deadline For 50 marks: 26th July, 2025 (11:59 pm ⏱️)
+## 🌷 Project Overview
 
-### 📅 Deadline For 30 marks:\*\* Any time after 26th July.
+Faugei Flower Shop is a frontend website project designed to provide a clean and attractive online flower-shopping experience. Visitors can explore featured flowers, view special offers, and find shop information through a simple and user-friendly interface.
 
----
+## ✨ Features
 
-## ✅ Main Requirements (50 Marks)
+- **Responsive Design** – Adapts to desktop and mobile screens.
+- **Navigation Bar** – Easy navigation between website sections.
+- **Hero Section** – Attractive banner with a welcoming message.
+- **Flower Products** – Displays featured flowers with prices.
+- **Flower Lover Section** – Highlights the beauty of flowers.
+- **Latest Deals** – Showcases special offers and discounts.
+- **Newsletter Section** – Includes a newsletter subscription design.
+- **Footer Section** – Displays social media icons and useful information.
 
-### 1. Navbar
+## 🛠️ Technologies Used
 
-- **Logo/Website name** on the left
-- **Menu items** on the right with **cart icon**
-- **Mobile Responsiveness:**
-  - Logo/website name on the left
-  - Cart icon with name on the right as Figma
-  - Other navbar elements will be hidden for cleaner mobile experience
+- HTML5
+- CSS3
+- Google Fonts
+- PNG Images and Icons
 
----
+## 📁 Project Structure
 
-### 2. Banner
+```text
+Faugei-Flower-Shop/
+│
+├── index.html
+├── style.css
+│
+└── assets/
+    ├── logo.png
+    ├── hero-flower.png
+    ├── sample-flower-image.png
+    ├── flower-store.png
+    ├── trusted-badge.png
+    ├── deal-bloom.png
+    ├── deal-ana.png
+    ├── deal-zabo.png
+    ├── news-letter-bg.png
+    ├── icon-linkedin.png
+    ├── icon-twitter.png
+    ├── icon-facebook.png
+    └── icon-youtube.png
+```
 
-- **Image** on the right
-- **Title and paragraph** on the left
-- **Mobile Responsiveness:**
-  - Image moves to the top
-  - Content after image
-  - Content left aligned as Figma
+## 🚀 How to Run the Project
 
----
+1. Clone the repository:
 
-### 3. Plants Section
+   ```bash
+   git clone YOUR_REPOSITORY_URL
+   ```
 
-- centered **Title and subtitle** as Figma
-- **8 cards with 4 Collumn View** with image, name, price, and Add to cart button
-- **Mobile Responsiveness:**
-  - Display Cards in 2 Collumn
+2. Open the project folder in VS Code.
 
----
+3. Open `index.html` in your browser.
 
-### 4. Plants Lover Section
+   Alternatively, use the **Live Server** extension in VS Code.
 
-- **Image** on the left
-- **Title and unordered list** on the right as Figma
-- **Mobile Responsiveness:**
-  - Image moves to the top
-  - Content after image
-  - Content left aligned as Figma
+## 🎨 Design
 
----
+- **Primary Color:** Orange (`#E95A08`)
+- **Background Color:** Cream (`#FFF8F0`)
+- **Heading Font:** Noto Serif
+- **Body Font:** Inter
 
-### 5. Join Section
+## 📌 Project Type
 
-- centered **Join the colorful Bunch** message
-- **Background image** in the full section like Figma
-- **Input box with placeholder** and **subscribe button** like Figma
-- **Mobile Responsiveness:** Responsive design like Figma
+- **Category:** Frontend Web Development
+- **Project Level:** Beginner
+- **Purpose:** Practice HTML and CSS fundamentals, webpage layout, and responsive design.
 
----
+## 👨‍💻 Author
 
-### 6. Footer Section
+**Sakib Hossain**
 
-- **Website logo** on the left
-- **Home, features link items** just like Figma
-- **Mobile Responsiveness:** Responsive design like Figma
-
----
-
-## 🧪 Challenges Part ( 10 Mark)
-
-### Latest Deal Section
-
-- **Title and subtitles**
-- **Card layout** like Figma
-- **Mobile Responsiveness:** Show a card on display like Figma
-
----
-
-### Trusted Plant Lover Badge
-
-- Position a Trusted badge at the **Plant Lover** Image as Figma
-- - **Mobile Responsiveness:** Hide the Trusted badge in Mobile Device
+CSE Student | Frontend Development Learner
 
 ---
 
-## 🕛 Optional Part ( 0 Marks)
-
-`⚠️ You wont get any support for Optional part. Search Google and try it yourself`
-
-- Create an Animation for Trusted Plant Lover Badge
-
-  - It will Spin infinite times
-
-- Show an Alert with a message `"Flower Added to Cart"` when some one click on **Add to Cart** Button
-
-## ⚙️ Technology Stack
-
-- HTML
-- CSS (Vanilla/ Talwind CSS only)
-- ⚠️ **No libraries (e.g., DaisyUI, Flowbite) allowed.**
-
----
-
-## 📌 Rules
-
-- ✅ Minimum **5 meaningful commits** required.
-- ❌ No Lorem Ipsum or dummy placeholder text. Use relevant content only.
-
----
-
-## 🔗 What to Submit
-
-- 📂 **GitHub Repository:**
-- 🌐 **Live Link:**
-
----
-
-# Let's Code and Achieve your Dream 🎯
+⭐ If you like this project, consider giving it a star!
